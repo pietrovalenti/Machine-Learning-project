@@ -1,2 +1,4 @@
-# Machine-Learning-project
+# Machine Learning project
  Development of a system of classification models to predict the result of uterine cervical cancer biopsy
+- Report (Italian)
+- Knime Workflow (English)
